@@ -8,6 +8,6 @@ void main() {
 	scanf("%d",&n);
 	printf("Sequência do seu número:\n");
 	for(seq=1;seq<=11;seq++){
-		printf("%d",n+seq);
+		printf("%d.\n",n+seq);
 	}
 }
